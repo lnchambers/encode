@@ -1,0 +1,7 @@
+AllCops:
+  Exclude:
+    - "config/**/*"
+    - "bin/**/*"
+
+Layout/LineLength:
+  Max: 150
