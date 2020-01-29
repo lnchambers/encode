@@ -5,12 +5,18 @@ application up and running, but it doesn't.
 
 Things you may want to cover:
 
-* Yellow Elephants
+* Alliterating Alleyways
 
-* Six of One
+* Masked Moons
 
-* Half a dozen of another
+* Ypsilanti Yarborough
 
-* Ghost
+* Final Fixes
 
-* 
+* Interim Interviews
+
+* Lakeside Lycanthropes
+
+* Imitating Idols
+
+* Artificial Analytics
