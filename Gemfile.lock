@@ -41,7 +41,6 @@ GEM
     arel (8.0.0)
     ast (2.4.0)
     builder (3.2.4)
-    byebug (11.1.1)
     coderay (1.1.2)
     concurrent-ruby (1.1.5)
     crass (1.0.6)
@@ -76,7 +75,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.9.0)
     puma (3.12.2)
-    rack (2.1.2)
+    rack (2.2.6.2)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails (5.1.7)
@@ -153,7 +152,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  byebug
   listen (>= 3.0.5, < 3.2)
   pry
   puma (~> 3.7)
